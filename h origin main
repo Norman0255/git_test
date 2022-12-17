@@ -1,0 +1,17 @@
+[33mcommit 8783e32dbdab91e8915c3d7d2f27e2cdaf11ce92[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Norman0255 <normannguyen29@gmail.com>
+Date:   Fri Dec 16 19:50:44 2022 -0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 9ca454482c4ba674485b3bdbe5d150a59c5c4c8d[m
+Author: Norman0255 <normannguyen29@gmail.com>
+Date:   Fri Dec 16 19:01:55 2022 -0800
+
+    Add hello_world.txt
+
+[33mcommit 0a9a5e10b670061f99e47e56f9e948b0edf01acd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Norman0255 <120332257+Norman0255@users.noreply.github.com>
+Date:   Fri Dec 16 18:49:45 2022 -0800
+
+    Initial commit
